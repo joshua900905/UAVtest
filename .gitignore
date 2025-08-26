@@ -1,11 +1,9 @@
-# 忽略 Python 虛擬環境資料夾
+
 .venv/
 venv/
 
-# 忽略 Python 快取檔案
 __pycache__/
 *.pyc
 
-# 忽略其他 IDE 或系統產生的暫存檔
 .vscode/
 .idea/
